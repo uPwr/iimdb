@@ -1,0 +1,3 @@
+[submodule "exam-individuell"]
+	path = exam-individuell
+	url = https://github.com/fu-javascript-fe24/exam-individuell.git
